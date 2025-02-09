@@ -16,7 +16,7 @@ In this project, I configured and provisioned a Spark cluster on **AWS EMR (Elas
 
 ##### 3. **Access Data**
 
-- Load the IMDB dataset from a **AWS S3 bucket** into the cluster for analysis.
+- Load the dataset from a **AWS S3 bucket** into the cluster for analysis.
 
 ### Data Source
 The data is read from a **AWS S3 bucket**.
